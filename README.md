@@ -4,7 +4,7 @@ This application was developed with the aim of implementing cutting-edge market 
 
 ### **Technologies Used** ###
 
-- __MVVM Archteture + Clean__
+- __MVVM Architecture__
 - __Kotlin__
 - __RX Java 2__
 - __Live Data__
