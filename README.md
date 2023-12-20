@@ -1,15 +1,15 @@
-# Aplicativo para consultar as API's do Hearthstone
+# Application to Query Hearthstone APIs
 
-Esse aplicativo foi criado com o intuito de implementar novas tecnologias de mercado e consultar as API'S para montar um filtro de cartas do jogo.
+This application was developed with the aim of implementing cutting-edge market technologies and querying the APIs to build a card filter for the game.
 
-### **Tecnologias Utilizadas** ###
+### **Technologies Used** ###
 
-- __Arquitetura MVVM__. 
-- __Kotlin__. 
-- __RX Java 2__. 
-- __Live Data__. 
-- __Constraint Layout__. 
-- __Data Binding__. 
-- __Koin__.
-- __Retrofit__. 
-- __Picasso__. 
+- __MVVM Archteture + Clean__
+- __Kotlin__
+- __RX Java 2__
+- __Live Data__
+- __Constraint Layout__ 
+- __Data Binding__
+- __Koin__
+- __Retrofit__
+- __Picasso__
